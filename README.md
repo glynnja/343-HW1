@@ -1,3 +1,5 @@
+Hi!
+
 Some commands that will be commonly used:
 
 `git init `
